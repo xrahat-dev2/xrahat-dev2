@@ -25,7 +25,7 @@ I enjoy building **APIs, Bots, and Web Applications** while exploring new techno
 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Xrahat-Dev&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=xrahat-dev2&theme=tokyonight&hide_border=true"/>
 </p>
 
 📈 Contribution Graph
