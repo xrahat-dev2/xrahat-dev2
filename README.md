@@ -40,7 +40,7 @@ I enjoy building **APIs, Bots, and Web Applications** while exploring new techno
 👁 Visitors Counter
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Xrahat-Dev&label=PROFILE%20VIEWS&color=00ff99&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=xrahat-dev2&label=PROFILE%20VIEWS&color=00ff99&style=for-the-badge"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
